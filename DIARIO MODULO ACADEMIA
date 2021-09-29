@@ -1,0 +1,8 @@
+29/09:
+1- Criado projeto (ng new ACADEMIA) no caminho C:\Users\Samsung\Desktop\CURSOPROG\RPL
+2- Criado modulo (ng g module ACADEMIA)
+3- Criado componente cadastro_exercicios (ng g component ACADEMIA/cadastro_exercicios)
+4- Inseri MENU no html do app module
+5- Instalado BOOTSTRAP (npm install bootstrap) e alterado angular.json
+6- Instalado Ionicons (ng add @ionic/angular)
+4- Parei no passo 11 do passo a passo projeto proximo passo: criar os models do modulo
