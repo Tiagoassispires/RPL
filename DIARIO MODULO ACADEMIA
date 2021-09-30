@@ -6,3 +6,8 @@
 5- Instalado BOOTSTRAP (npm install bootstrap) e alterado angular.json
 6- Instalado Ionicons (ng add @ionic/angular)
 4- Parei no passo 11 do passo a passo projeto proximo passo: criar os models do modulo
+
+30/09:
+1- Criados models do sistema (Exercicios, Fichas, Registros)
+2- Assistidos os videos de criacao do service (videos 49 e 50)
+3- Proximo passo: Criar o HTML de cada tela
